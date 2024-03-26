@@ -1,0 +1,1 @@
+this repo was created to start practicing the important topics for software engineering world this one is for python , there are another similar repo for java too those repos will include but not jsut: exception threads
